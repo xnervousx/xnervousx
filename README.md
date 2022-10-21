@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalik</h1>
-<h3 align="center">I'm data analyst</h3>
+<h3 align="center">I'm data analyst with background in finance analysys</h3>
 
 - 🌱 I’m currently learning **python, sql**
 
